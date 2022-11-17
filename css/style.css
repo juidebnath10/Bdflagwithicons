@@ -31,19 +31,7 @@ a, a:hover{
     border-radius: 100%;
     position: absolute;
     transform: translate(100%, 50%);
-    /* top: 22%;
-    left: 30%; */
-    /* z-index: 1; */
 }
-/* .yellow{
-    width: 220px;
-    height: 220px;
-    background: yellow;
-    border-radius: 100%;
-    position: fixed;
-    top: 0%;
-    right: 0%;
-} */
 
 .fb-share{
     width: 180px;
